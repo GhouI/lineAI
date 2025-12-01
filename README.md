@@ -1,5 +1,6 @@
-#Line-AI
-# Requirements
+# Line-AI
+Agents
+## Requirements
 in the env file,
 ```
 BETTER_AUTH_SECRET=
